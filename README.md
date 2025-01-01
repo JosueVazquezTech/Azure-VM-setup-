@@ -3,7 +3,7 @@
 ![ezgif-1-104b376161](https://github.com/user-attachments/assets/f1666f50-74a6-44b4-9ebe-eef06bb0f5e9)
 
 
-<h1> Creating virtual machines (VMs) in the cloud with Azure. </h1>
+<h1> Creating virtual machines (VMs) using Microsoft Azure. </h1>
 This tutorial outlines the creation of virtual machines and how to connect to them remotely using Azure Cloud Services.<br />
 
 
