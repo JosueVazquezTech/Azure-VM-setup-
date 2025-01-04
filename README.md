@@ -76,7 +76,7 @@ When selecting the size for our VM make sure you pick one that has at least 2vcp
 
 <p>Now we are going to create the admin user were are gonna use to log into our VM. Just like you would do on a new computer select a new username and password. For username I choose labuser. 
 </p>
-<p>Under select inbound ports you need to select RDP (3389) this is really important since without this we can't connect to our VM. RDP stands for Remote Desktop Protocol, it operates over TCP and UDP port 3389 which allows us to remotely connect to our VM. Usually you wouldn't allow this port to be exposed to the internet without other security meassures but since this is just a lab it's ok. </p>
+<p>Under select inbound ports you need to select RDP (3389) this is really important since without this we can't connect to our VM. RDP stands for Remote Desktop Protocol, it operates over TCP and UDP port 3389 which allows us to remotely connect to our VM. Usually, you wouldn't allow this port to be exposed to the internet without other security measures but since this is just a lab it's ok. </p>
 
 ![009](https://github.com/user-attachments/assets/e0892674-9758-4979-bfd9-961173bc30cc)
 
